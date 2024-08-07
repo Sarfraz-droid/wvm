@@ -1,3 +1,5 @@
 ## WVM - Web Version Manager
 
-wvm handles your website having different versions.
+reverse-proxy made with go that handles your website having different versions.
+
+(1 am here, good night +.+, will add more info soon)
